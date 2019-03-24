@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iephahtha.diepenbrocklaw.com/sitemap.xml
